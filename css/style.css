@@ -1,0 +1,26 @@
+
+/* body style start  */
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+/* circle style  */
+.fa-check-circle{
+    margin-right: 10px;
+}
+
+/* footer style  */
+footer{
+    background-color: black;
+    height: 300px;
+}
+
+
+
+/* body style end  */
